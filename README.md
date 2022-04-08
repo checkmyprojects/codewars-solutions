@@ -11,6 +11,7 @@ Solutions for codewars
 - [x] [Even or Odd](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Even%20or%20Odd.js "Github: Even or Odd"). Codewars: [link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/ "Codewars: https://www.codewars.com/kata/53da3dbb4a5168369a0000fe")
 - [x] [Find the smallest integer in the array](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Find%20the%20smallest%20integer%20in%20the%20array.js "Github: Find the smallest integer in the array"). Codewars: [link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2/ "Codewars: https://www.codewars.com/kata/55a2d7ebe362935a210000b2")
 - [x] [Grasshopper - Summation](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Grasshopper%20-%20Summation.js "Github: Grasshopper - Summation"). Codewars: [link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030/ "Codewars: https://www.codewars.com/kata/55d24f55d7dd296eb9000030")
+- [x] [Multiply](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Multiply.js "Github: Multiply"). Codewars: [link](https://www.codewars.com/kata/50654ddff44f800200000004/ "Codewars: https://www.codewars.com/kata/50654ddff44f800200000004")
 
 
 .
