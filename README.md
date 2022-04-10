@@ -13,6 +13,7 @@ Solutions for codewars
 - [x] [Grasshopper - Summation](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Grasshopper%20-%20Summation.js "Github: Grasshopper - Summation"). Codewars: [link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030/ "Codewars: https://www.codewars.com/kata/55d24f55d7dd296eb9000030")
 - [x] [Multiply](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Multiply.js "Github: Multiply"). Codewars: [link](https://www.codewars.com/kata/50654ddff44f800200000004/ "Codewars: https://www.codewars.com/kata/50654ddff44f800200000004")
 - [x] [Opposite number](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Opposite%20number.js "Github: Opposite number"). Codewars: [link](https://www.codewars.com/kata/56dec885c54a926dcd001095/ "Codewars: https://www.codewars.com/kata/56dec885c54a926dcd001095")
+- [x] [Opposites Attract](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Opposites%20Attract.js "Github: Opposites Attract"). Codewars: [link](https://www.codewars.com/kata/555086d53eac039a2a000083/ "Codewars: https://www.codewars.com/kata/555086d53eac039a2a000083")
 
 
 .
