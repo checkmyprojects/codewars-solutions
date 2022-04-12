@@ -3,6 +3,7 @@ Solutions for codewars
 ## Javascript ##
 >### 8 kyu ###
 
+- [x] [Basic Mathematical Operations](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Basic%20Mathematical%20Operations.js "Github: Basic Mathematical Operations"). Codewars: [link](https://www.codewars.com/kata/57356c55867b9b7a60000bd7/ "Codewars: Basic Mathematical Operations")
 - [x] [Beginner Series #1 School Paperwork](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Beginner%20Series%201%20School%20Paperwork.js "Github: Beginner Series #1 School Paperwork"). Codewars: [link](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/ "Codewars: Beginner Series #1 School Paperwork")
 - [x] [Century From Year](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Century%20From%20Year.js "Github: Century From Year"). Codewars: [link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/ "Codewars: https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097")
 - [x] [Convert a Number to a String](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Convert%20a%20Number%20to%20a%20String.js "Github: Convert a Number to a String"). Codewars: [link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/ "Codewars: https://www.codewars.com/kata/5265326f5fda8eb1160004c8")
