@@ -3,6 +3,7 @@ Solutions for codewars
 ## Javascript ##
 >### 8 kyu ###
 
+- [x] [A Needle in the Haystack](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/A%20Needle%20in%20the%20Haystack.js "Github: A Needle in the Haystack"). Codewars: [link](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/ "Codewars: A Needle in the Haystack")
 - [x] [Abbreviate a Two Word Name](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Abbreviate%20a%20Two%20Word%20Name.js "Github: Abbreviate a Two Word Name"). Codewars: [link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/ "Codewars: Abbreviate a Two Word Name")
 - [x] [Basic Mathematical Operations](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Basic%20Mathematical%20Operations.js "Github: Basic Mathematical Operations"). Codewars: [link](https://www.codewars.com/kata/57356c55867b9b7a60000bd7/ "Codewars: Basic Mathematical Operations")
 - [x] [Beginner Series #1 School Paperwork](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Beginner%20Series%201%20School%20Paperwork.js "Github: Beginner Series #1 School Paperwork"). Codewars: [link](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/ "Codewars: Beginner Series #1 School Paperwork")
