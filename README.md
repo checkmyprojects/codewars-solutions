@@ -23,6 +23,7 @@ Solutions for codewars
 - [x] [Multiply](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Multiply.js "Github: Multiply"). Codewars: [link](https://www.codewars.com/kata/50654ddff44f800200000004/ "Codewars: https://www.codewars.com/kata/50654ddff44f800200000004")
 - [x] [Opposite number](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Opposite%20number.js "Github: Opposite number"). Codewars: [link](https://www.codewars.com/kata/56dec885c54a926dcd001095/ "Codewars: https://www.codewars.com/kata/56dec885c54a926dcd001095")
 - [x] [Opposites Attract](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Opposites%20Attract.js "Github: Opposites Attract"). Codewars: [link](https://www.codewars.com/kata/555086d53eac039a2a000083/ "Codewars: https://www.codewars.com/kata/555086d53eac039a2a000083")
+- [x] [Returning Strings](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Returning%20Strings.js "Github: Returning Strings"). Codewars: [link](https://www.codewars.com/kata/55a70521798b14d4750000a4/ "Codewars: https://www.codewars.com/kata/55a70521798b14d4750000a4")
 
 
 .
