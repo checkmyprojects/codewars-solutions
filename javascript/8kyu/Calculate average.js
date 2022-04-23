@@ -7,5 +7,15 @@
 
 function find_average(array) {
     // your code here
-    return array.reduce((a, b) => a + b)/array.length
-}
+    if (array.length == 0){
+      return 0
+    }else {
+      const result = array.reduce((a, b) => a + b)/array.length
+        if (result === 0){
+          return 0
+        }else{
+          return result
+      }
+    }
+  
+  }
