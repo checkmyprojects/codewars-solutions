@@ -41,6 +41,7 @@ Solutions for codewars
 - [x] [Returning Strings](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Returning%20Strings.js "Github: Returning Strings"). Codewars: [link](https://www.codewars.com/kata/55a70521798b14d4750000a4/ "Codewars: Returning Strings")
 - [x] [Reversed sequence](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Reversed%20sequence.js "Github: Reversed sequence"). Codewars: [link](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/ "Codewars: Reversed sequence")
 - [x] [Reversed Words](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Reversed%20Words.js "Github: Reversed Words"). Codewars: [link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e/ "Codewars: Reversed Words")
+- [x] [Simple multiplication](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Simple%20multiplication.js "Github: Simple multiplication"). Codewars: [link](https://www.codewars.com/kata/583710ccaa6717322c000105/ "Codewars: Simple multiplication")
 - [x] [You only need one - Beginner](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/You%20only%20need%20one%20-%20Beginner.js "Github: You only need one - Beginner"). Codewars: [link](https://www.codewars.com/kata/57cc975ed542d3148f00015b/ "Codewars: You only need one - Beginner")
 
 
