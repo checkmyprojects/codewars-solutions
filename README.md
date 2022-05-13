@@ -49,6 +49,7 @@ Solutions for codewars
 - [x] [Simple multiplication](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Simple%20multiplication.js "Github: Simple multiplication"). Codewars: [link](https://www.codewars.com/kata/583710ccaa6717322c000105/ "Codewars: Simple multiplication")
 - [x] [Sum Arrays](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Sum%20Arrays.js "Github: Sum Arrays"). Codewars: [link](https://www.codewars.com/kata/583710ccaa6717322c000105/ "Codewars: Sum Arrays")
 - [x] [Sum Mixed Array](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Sum%20Mixed%20Array.js "Github: Sum Mixed Array"). Codewars: [link](https://www.codewars.com/kata/57eaeb9578748ff92a000009/ "Codewars: Sum Mixed Array")
+- [x] [Will you make it?](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Will%20you%20make%20it.js "Github: Will you make it?"). Codewars: [link](https://www.codewars.com/kata/5861d28f124b35723e00005e/ "Codewars: Will you make it?")
 - [x] [You only need one - Beginner](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/You%20only%20need%20one%20-%20Beginner.js "Github: You only need one - Beginner"). Codewars: [link](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/ "Codewars: You only need one - Beginner")
 
 
