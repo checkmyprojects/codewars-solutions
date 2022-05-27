@@ -3,7 +3,7 @@ Solutions for codewars
 ## Javascript ##
 >### 7 kyu ###
 
-- [x] [Descending Order](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Descending%20Order.js "Github: Descending Order"). Codewars: [link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/ "Codewars: Descending Order")
+- [x] [Descending Order](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Descending%20Order.js "Github: Descending Order"). Codewars: [link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/ "Codewars: Descending Order")
 
 >### 8 kyu ###
 
