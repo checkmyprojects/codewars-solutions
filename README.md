@@ -55,9 +55,10 @@ Solutions for codewars
 - [x] [MakeUpperCase](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/MakeUpperCase.js "Github: MakeUpperCase"). Codewars: [link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/ "Codewars: MakeUpperCase")
 - [x] [Multiply](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Multiply.js "Github: Multiply"). Codewars: [link](https://www.codewars.com/kata/50654ddff44f800200000004/ "Codewars: Multiply")
 - [x] [Opposite number](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Opposite%20number.js "Github: Opposite number"). Codewars: [link](https://www.codewars.com/kata/56dec885c54a926dcd001095/ "Codewars: Opposite number")
-- [x] [Opposites Attract](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Opposites%20Attract.js "Github: Opposites Attract"). Codewars: [link](https://www.codewars.com/kata/555086d53eac039a2a000083/ "Codewars: [Opposites Attract")
-- [x] [Remove exclamation marks](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Remove%20exclamation%20marks.js "Github: Remove exclamation marks"). Codewars: [link](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/ "Codewars: [Remove exclamation marks")
-- [x] [Removing Elements](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Removing%20Elements.js "Github: Removing Elements"). Codewars: [link](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/ "Codewars: [Removing Elements")
+- [x] [Opposites Attract](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Opposites%20Attract.js "Github: Opposites Attract"). Codewars: [link](https://www.codewars.com/kata/555086d53eac039a2a000083/ "Codewars: Opposites Attract")
+- [x] [Powers of 2](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Powers%20of%202.js "Github: Powers of 2"). Codewars: [link](https://www.codewars.com/kata/57a083a57cb1f31db7000028/ "Codewars: Powers of 2")
+- [x] [Remove exclamation marks](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Remove%20exclamation%20marks.js "Github: Remove exclamation marks"). Codewars: [link](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/ "Codewars: Remove exclamation marks")
+- [x] [Removing Elements](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Removing%20Elements.js "Github: Removing Elements"). Codewars: [link](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/ "Codewars: Removing Elements")
 - [x] [Returning Strings](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Returning%20Strings.js "Github: Returning Strings"). Codewars: [link](https://www.codewars.com/kata/55a70521798b14d4750000a4/ "Codewars: Returning Strings")
 - [x] [Reversed sequence](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Reversed%20sequence.js "Github: Reversed sequence"). Codewars: [link](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/ "Codewars: Reversed sequence")
 - [x] [Reversed Words](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Reversed%20Words.js "Github: Reversed Words"). Codewars: [link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e/ "Codewars: Reversed Words")
@@ -76,6 +77,7 @@ Solutions for codewars
 
 ## Java ##
 >### 8 kyu ###
+
 - [x] [Opposites Attract](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Opposites%20Attract.js "Github: Opposites Attract"). Codewars: [link](https://www.codewars.com/kata/555086d53eac039a2a000083/ "Codewars: [Opposites Attract")
 
 
