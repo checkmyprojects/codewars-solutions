@@ -1,6 +1,10 @@
 # codewars-solutions
 Solutions for codewars
 ## Javascript ##
+>### 7 kyu ###
+
+- [x] [Descending Order](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Descending%20Order.js "Github: Descending Order"). Codewars: [link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/ "Codewars: Descending Order")
+
 >### 8 kyu ###
 
 - [x] [A Needle in the Haystack](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/A%20Needle%20in%20the%20Haystack.js "Github: A Needle in the Haystack"). Codewars: [link](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/ "Codewars: A Needle in the Haystack")
