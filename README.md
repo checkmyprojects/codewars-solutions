@@ -70,4 +70,11 @@ Solutions for codewars
 - [x] [You only need one - Beginner](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/You%20only%20need%20one%20-%20Beginner.js "Github: You only need one - Beginner"). Codewars: [link](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/ "Codewars: You only need one - Beginner")
 
 
+## Java ##
+>### 8 kyu ###
+- [x] [Opposites Attract](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Opposites%20Attract.js "Github: Opposites Attract"). Codewars: [link](https://www.codewars.com/kata/555086d53eac039a2a000083/ "Codewars: [Opposites Attract")
+
+
+
+
 .
