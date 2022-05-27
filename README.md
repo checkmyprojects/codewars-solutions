@@ -79,7 +79,7 @@ Solutions for codewars
 ## Java ##
 >### 8 kyu ###
 
-- [x] [Opposites Attract](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Opposites%20Attract.js "Github: Opposites Attract"). Codewars: [link](https://www.codewars.com/kata/555086d53eac039a2a000083/ "Codewars: [Opposites Attract")
+- [x] [Opposites Attract](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Opposites%20Attract.java "Github: Opposites Attract"). Codewars: [link](https://www.codewars.com/kata/555086d53eac039a2a000083/ "Codewars: [Opposites Attract")
 
 
 
