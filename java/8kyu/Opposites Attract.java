@@ -2,6 +2,8 @@
 
 // Write a function that will take the number of petals of each flower and return true if they are in love and false if they aren't.
 
+// https://www.codewars.com/kata/555086d53eac039a2a000083
+
 public class OppositesAttract {
 
     public static boolean isLove(final int flower1, final int flower2) {
