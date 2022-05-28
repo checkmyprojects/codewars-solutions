@@ -1,5 +1,10 @@
 # codewars-solutions
 Solutions for codewars
+
+- [Javascript 7kyu](#7-kyu)
+- [Javascript 8kyu](#8-kyu)
+- [Java 8kyu](#8-kyu-1)
+
 ## Javascript ##
 >### 7 kyu ###
 
