@@ -9,6 +9,7 @@ Solutions for codewars
 >### 7 kyu ###
 
 - [x] [Descending Order](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Descending%20Order.js "Github: Descending Order"). Codewars: [link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/ "Codewars: Descending Order")
+- [x] [Disemvowel Trolls](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Disemvowel%20Trolls.js "Github: Disemvowel Trolls"). Codewars: [link](https://www.codewars.com/kata/52fba66badcd10859f00097e/ "Codewars: Disemvowel Trolls")
 
 >### 8 kyu ###
 
