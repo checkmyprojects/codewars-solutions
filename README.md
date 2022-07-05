@@ -10,6 +10,7 @@ Solutions for codewars
 
 - [x] [Descending Order](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Descending%20Order.js "Github: Descending Order"). Codewars: [link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/ "Codewars: Descending Order")
 - [x] [Disemvowel Trolls](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Disemvowel%20Trolls.js "Github: Disemvowel Trolls"). Codewars: [link](https://www.codewars.com/kata/52fba66badcd10859f00097e/ "Codewars: Disemvowel Trolls")
+- [x] [Mumbling](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Mumbling.js "Github: Mumbling"). Codewars: [link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/ "Codewars: Mumbling")
 - [x] [Square Every Digit](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Square%20Every%20Digit.js "Github: Square Every Digit"). Codewars: [link](https://www.codewars.com/kata/546e2562b03326a88e000020/ "Codewars: Square Every Digit")
 - [x] [Vowel Count](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Vowel%20Count.js "Github: Vowel Count"). Codewars: [link](https://www.codewars.com/kata/54ff3102c1bad923760001f3/ "Codewars: Vowel Count")
 
