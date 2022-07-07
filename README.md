@@ -3,6 +3,7 @@ Solutions for codewars
 
 - [Javascript 7kyu](#7-kyu)
 - [Javascript 8kyu](#8-kyu)
+- [Java 8kyu](#7-kyu-1)
 - [Java 8kyu](#8-kyu-1)
 
 ## Javascript ##
@@ -134,6 +135,10 @@ Solutions for codewars
 
 
 ## Java ##
+>### 7 kyu ###
+
+- [x] [List Filtering](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/List%20Filtering.java "Github: List Filtering"). Codewars: [link](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/ "Codewars: List Filtering")
+
 >### 8 kyu ###
 
 - [x] [Opposites Attract](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Opposites%20Attract.java "Github: Opposites Attract"). Codewars: [link](https://www.codewars.com/kata/555086d53eac039a2a000083/ "Codewars: [Opposites Attract")
