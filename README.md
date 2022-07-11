@@ -20,6 +20,7 @@ Solutions for codewars
 
 >### 8 kyu ###
 
+- [x] [5 without numbers !!](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/5%20without%20numbers.js "Github: 5 without numbers !!"). Codewars: [link](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/ "Codewars: 5 without numbers !!")
 - [x] [A Needle in the Haystack](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/A%20Needle%20in%20the%20Haystack.js "Github: A Needle in the Haystack"). Codewars: [link](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/ "Codewars: A Needle in the Haystack")
 - [x] [Abbreviate a Two Word Name](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/Abbreviate%20a%20Two%20Word%20Name.js "Github: Abbreviate a Two Word Name"). Codewars: [link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/ "Codewars: Abbreviate a Two Word Name")
 - [x] [All Star Code Challenge #18](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/8kyu/All%20Star%20Code%20Challenge%2018.js "Github: All Star Code Challenge #18"). Codewars: [link](https://www.codewars.com/kata/5865918c6b569962950002a1/ "Codewars: All Star Code Challenge #18")
