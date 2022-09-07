@@ -10,6 +10,7 @@ Solutions for codewars
 >### 7 kyu ###
 
 - [x] [Complementary DNA](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Complementary%20DNA.js "Github: Complementary DNA"). Codewars: [link](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/ "Codewars: Complementary DNA")
+- [x] [Credit Card Mask](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Credit%20Card%20Mask.js "Github: Credit Card Mask"). Codewars: [link](https://www.codewars.com/kata/5412509bd436bd33920011bc/ "Codewars: Credit Card Mask")
 - [x] [Descending Order](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Descending%20Order.js "Github: Descending Order"). Codewars: [link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/ "Codewars: Descending Order")
 - [x] [Disemvowel Trolls](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Disemvowel%20Trolls.js "Github: Disemvowel Trolls"). Codewars: [link](https://www.codewars.com/kata/52fba66badcd10859f00097e/ "Codewars: Disemvowel Trolls")
 - [x] [Exes and Ohs](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Exes%20and%20Ohs.js "Github: Exes and Ohs"). Codewars: [link](https://www.codewars.com/kata/55908aad6620c066bc00002a/ "Codewars: Exes and Ohs")
