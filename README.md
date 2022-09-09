@@ -23,6 +23,7 @@ Solutions for codewars
 - [x] [Shortest Word](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Shortest%20Word.js "Github: Shortest Word"). Codewars: [link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/ "Codewars: Shortest Word")
 - [x] [Square Every Digit](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Square%20Every%20Digit.js "Github: Square Every Digit"). Codewars: [link](https://www.codewars.com/kata/546e2562b03326a88e000020/ "Codewars: Square Every Digit")
 - [x] [Sum of two lowest positive integers](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Sum%20of%20two%20lowest%20positive%20integers.js "Github: Sum of two lowest positive integers"). Codewars: [link](https://www.codewars.com/kata/558fc85d8fd1938afb000014/ "Codewars: Sum of two lowest positive integers")
+- [x] [Two to One](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Two%20to%20One.js "Github: Two to One"). Codewars: [link](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/ "Codewars: Two to One")
 - [x] [Vowel Count](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Vowel%20Count.js "Github: Vowel Count"). Codewars: [link](https://www.codewars.com/kata/54ff3102c1bad923760001f3/ "Codewars: Vowel Count")
 
 >### 8 kyu ###
