@@ -27,6 +27,7 @@ Solutions for codewars
 - [x] [Sum of two lowest positive integers](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Sum%20of%20two%20lowest%20positive%20integers.js "Github: Sum of two lowest positive integers"). Codewars: [link](https://www.codewars.com/kata/558fc85d8fd1938afb000014/ "Codewars: Sum of two lowest positive integers")
 - [x] [Two to One](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Two%20to%20One.js "Github: Two to One"). Codewars: [link](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/ "Codewars: Two to One")
 - [x] [Vowel Count](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Vowel%20Count.js "Github: Vowel Count"). Codewars: [link](https://www.codewars.com/kata/54ff3102c1bad923760001f3/ "Codewars: Vowel Count")
+- [x] [You're a square](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/You're%20a%20square.js "Github: You're a square"). Codewars: [link](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/ "Codewars: You're a square")
 
 >### 8 kyu ###
 
