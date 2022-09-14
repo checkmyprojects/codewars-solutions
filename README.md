@@ -9,6 +9,7 @@ Solutions for codewars
 ## Javascript ##
 >### 7 kyu ###
 
+- [x] [Binary Addition](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Binary%20Addition.js "Github: Binary Addition"). Codewars: [link](https://www.codewars.com/kata/551f37452ff852b7bd000139/ "Codewars: Binary Addition")
 - [x] [Categorize New Member](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Categorize%20New%20Member.js "Github: Categorize New Member"). Codewars: [link](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/ "Codewars: Categorize New Member")
 - [x] [Complementary DNA](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Complementary%20DNA.js "Github: Complementary DNA"). Codewars: [link](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/ "Codewars: Complementary DNA")
 - [x] [Credit Card Mask](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Credit%20Card%20Mask.js "Github: Credit Card Mask"). Codewars: [link](https://www.codewars.com/kata/5412509bd436bd33920011bc/ "Codewars: Credit Card Mask")
