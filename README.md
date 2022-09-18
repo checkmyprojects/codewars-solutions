@@ -221,7 +221,7 @@ Solutions for codewars
 - [x] [Opposite number](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Opposite%20number.java "Github: Opposite number"). Codewars: [link](https://www.codewars.com/kata/56dec885c54a926dcd001095/ "Codewars: [Opposite number")
 - [x] [Opposites Attract](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Opposites%20Attract.java "Github: Opposites Attract"). Codewars: [link](https://www.codewars.com/kata/555086d53eac039a2a000083/ "Codewars: [Opposites Attract")
 - [x] [Return Negative](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Return%20Negative.java "Github: Return Negative"). Codewars: [link](https://www.codewars.com/kata/55685cd7ad70877c23000102/ "Codewars: [Return Negative")
-- [x] [Reversed Strings](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Return%20Negative.java "Github: Reversed Strings"). Codewars: [link](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/ "Codewars: [Reversed Strings")
+- [x] [Reversed Strings](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Reversed%20Strings.java "Github: Reversed Strings"). Codewars: [link](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/ "Codewars: [Reversed Strings")
 - [x] [Sum of positive](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Sum%20of%20positive.java "Github: Sum of positive"). Codewars: [link](https://www.codewars.com/kata/5715eaedb436cf5606000381/ "Codewars: [Sum of positive")
 
 
