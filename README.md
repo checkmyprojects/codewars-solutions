@@ -216,6 +216,7 @@ Solutions for codewars
 
 >### 8 kyu ###
 
+- [x] [Even or Odd](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Even%20or%20Odd.java "Github: Even or Odd"). Codewars: [link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/ "Codewars: [Even or Odd")
 - [x] [Opposites Attract](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Opposites%20Attract.java "Github: Opposites Attract"). Codewars: [link](https://www.codewars.com/kata/555086d53eac039a2a000083/ "Codewars: [Opposites Attract")
 
 
