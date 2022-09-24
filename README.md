@@ -219,6 +219,7 @@ Solutions for codewars
 
 >### 8 kyu ###
 
+- [x] [Century From Year](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Century%20From%20Year.java "Github: Century From Year"). Codewars: [link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/ "Codewars: Century From Year")
 - [x] [Convert a Number to a String!](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Convert%20a%20Number%20to%20a%20String.java "Github: Convert a Number to a String!"). Codewars: [link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/ "Codewars: Convert a Number to a String!")
 - [x] [Convert boolean values to strings 'Yes' or 'No'](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.java "Github: Convert boolean values to strings 'Yes' or 'No'"). Codewars: [link](https://www.codewars.com/kata/53369039d7ab3ac506000467/ "Codewars: Convert boolean values to strings 'Yes' or 'No'")
 - [x] [Even or Odd](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Even%20or%20Odd.java "Github: Even or Odd"). Codewars: [link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/ "Codewars: Even or Odd")
