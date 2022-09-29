@@ -220,6 +220,7 @@ Solutions for codewars
 
 >### 8 kyu ###
 
+- [x] [A Needle in the Haystack](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/A%20Needle%20in%20the%20Haystack.java "Github: A Needle in the Haystack"). Codewars: [link](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/ "Codewars: A Needle in the Haystack")
 - [x] [Abbreviate a Two Word Name](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Abbreviate%20a%20Two%20Word%20Name.java "Github: Abbreviate a Two Word Name"). Codewars: [link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/ "Codewars: Abbreviate a Two Word Name")
 - [x] [Century From Year](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Century%20From%20Year.java "Github: Century From Year"). Codewars: [link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/ "Codewars: Century From Year")
 - [x] [Convert a Number to a String!](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Convert%20a%20Number%20to%20a%20String.java "Github: Convert a Number to a String!"). Codewars: [link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/ "Codewars: Convert a Number to a String!")
