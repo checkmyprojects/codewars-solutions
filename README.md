@@ -252,6 +252,7 @@ Solutions for codewars
 - [x] [Square(n) Sum](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Square(n)%20Sum.java "Github: Square(n) Sum"). Codewars: [link](https://www.codewars.com/kata/515e271a311df0350d00000f/ "Codewars: Square(n) Sum")
 - [x] [String repeat](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/String%20repeat.java "Github: String repeat"). Codewars: [link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/ "Codewars: String repeat")
 - [x] [Sum of positive](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Sum%20of%20positive.java "Github: Sum of positive"). Codewars: [link](https://www.codewars.com/kata/5715eaedb436cf5606000381/ "Codewars: Sum of positive")
+- [x] [You only need one - Beginner](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/You%20only%20need%20one%20-%20Beginner.java "Github: You only need one - Beginner"). Codewars: [link](https://www.codewars.com/kata/57cc975ed542d3148f00015b/ "Codewars: You only need one - Beginner")
 
 
 
