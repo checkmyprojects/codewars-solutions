@@ -223,6 +223,7 @@ Solutions for codewars
 >### 8 kyu ###
 
 - [x] [A Needle in the Haystack](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/A%20Needle%20in%20the%20Haystack.java "Github: A Needle in the Haystack"). Codewars: [link](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/ "Codewars: A Needle in the Haystack")
+- [x] [A wolf in sheep's clothing](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/A%20wolf%20in%20sheeps%20clothing.java "Github: A wolf in sheep's clothing"). Codewars: [link](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/ "Codewars: A wolf in sheep's clothing")
 - [x] [Abbreviate a Two Word Name](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Abbreviate%20a%20Two%20Word%20Name.java "Github: Abbreviate a Two Word Name"). Codewars: [link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/ "Codewars: Abbreviate a Two Word Name")
 - [x] [Are You Playing Banjo?](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Are%20You%20Playing%20Banjo.java "Github: Are You Playing Banjo?"). Codewars: [link](https://www.codewars.com/kata/53af2b8861023f1d88000832/ "Codewars: Are You Playing Banjo?")
 - [x] [Area or Perimeter](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Area%20or%20Perimeter.java "Github: Area or Perimeter"). Codewars: [link](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/ "Codewars: Area or Perimeter")
