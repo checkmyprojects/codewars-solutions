@@ -355,4 +355,4 @@ Solutions for codewars
 
 
 
-......
+.
