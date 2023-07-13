@@ -1,7 +1,5 @@
 // https://www.codewars.com/kata/568dc014440f03b13900001d
 
-// L1: Bartender, drinks!
-
 function getDrinkByProfession(param) {
     let toLower = param.toLowerCase();
     let myArr = ["Patron Tequila", "Anything with Alcohol", "Hipster Craft Beer", "Moonshine", "Your tax dollars", "Cristal", "Beer"];
