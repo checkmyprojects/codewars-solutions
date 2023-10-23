@@ -425,6 +425,7 @@ Solutions for codewars
 
 >### 8 kyu ###
 
+- [x] [8kyu interpreters: HQ9+](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/8kyu%20interpreters%20HQ9.java "Github: 8kyu interpreters: HQ9+"). Codewars: [link](https://www.codewars.com/kata/591588d49f4056e13f000001/ "Codewars: 8kyu interpreters: HQ9+")
 - [x] [101 Dalmatians - squash the bugs, not the dogs!](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/101%20Dalmatians%20-%20squash%20the%20bugs,%20not%20the%20dogs.java "Github: 101 Dalmatians - squash the bugs, not the dogs!"). Codewars: [link](https://www.codewars.com/kata/56f6919a6b88de18ff000b36/ "Codewars: 101 Dalmatians - squash the bugs, not the dogs!")
 - [x] [A Needle in the Haystack](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/A%20Needle%20in%20the%20Haystack.java "Github: A Needle in the Haystack"). Codewars: [link](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/ "Codewars: A Needle in the Haystack")
 - [x] [A plus B](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/A%20plus%20B.java "Github: A plus B"). Codewars: [link](https://www.codewars.com/kata/5512a0b0509063e57d0003f5/ "Codewars: A plus B")
