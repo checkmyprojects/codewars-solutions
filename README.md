@@ -9,6 +9,7 @@ Solutions for codewars
 ## Javascript ##
 >### 7 kyu ###
 
+- [x] [Anagram Detection](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Anagram%20Detection.js "Github: Anagram Detection"). Codewars: [link](https://www.codewars.com/kata/551f37452ff852b7bd000139/ "Codewars: Anagram Detection")
 - [x] [Binary Addition](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Binary%20Addition.js "Github: Binary Addition"). Codewars: [link](https://www.codewars.com/kata/551f37452ff852b7bd000139/ "Codewars: Binary Addition")
 - [x] [Breaking chocolate problem](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Breaking%20chocolate%20problem.js "Github: Breaking chocolate problem"). Codewars: [link](https://www.codewars.com/kata/534ea96ebb17181947000ada/ "Codewars: Breaking chocolate problem")
 - [x] [Categorize New Member](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Categorize%20New%20Member.js "Github: Categorize New Member"). Codewars: [link](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/ "Codewars: Categorize New Member")
