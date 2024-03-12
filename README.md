@@ -10,6 +10,7 @@ Solutions for codewars
 >### 7 kyu ###
 
 - [x] [A Rule of Divisibility by 7](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/A%20Rule%20of%20Divisibility%20by%207.js "Github: A Rule of Divisibility by 7"). Codewars: [link](https://www.codewars.com/kata/55e6f5e58f7817808e00002e/ "Codewars: A Rule of Divisibility by 7")
+- [x] [All Star Code Challenge #3](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/All%20Star%20Code%20Challenge%203.js "Github: All Star Code Challenge #3"). Codewars: [link](https://www.codewars.com/kata/58640340b3a675d9a70000b9/ "Codewars: All Star Code Challenge #3")
 - [x] [All unique](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/All%20unique.js "Github: All unique"). Codewars: [link](https://www.codewars.com/kata/553e8b195b853c6db4000048/ "Codewars: All unique")
 - [x] [Alphabet symmetry](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Alphabet%20symmetry.js "Github: Alphabet symmetry"). Codewars: [link](https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0/ "Codewars: Alphabet symmetry")
 - [x] [Alphabet war](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Alphabet%20war.js "Github: Alphabet war"). Codewars: [link](https://www.codewars.com/kata/59377c53e66267c8f6000027/ "Codewars: Alphabet war")
