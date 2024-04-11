@@ -197,6 +197,7 @@ Solutions for codewars
 - [x] [Two to One](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Two%20to%20One.js "Github: Two to One"). Codewars: [link](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/ "Codewars: Two to One")
 - [x] [V A P O R C O D E](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/V%20A%20P%20O%20R%20C%20O%20D%20E.js "Github: V A P O R C O D E"). Codewars: [link](https://www.codewars.com/kata/5966eeb31b229e44eb00007a/ "Codewars: V A P O R C O D E")
 - [x] [Vowel Count](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Vowel%20Count.js "Github: Vowel Count"). Codewars: [link](https://www.codewars.com/kata/54ff3102c1bad923760001f3/ "Codewars: Vowel Count")
+- [x] [Word values](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Word%20values.js "Github: Word values"). Codewars: [link](https://www.codewars.com/kata/598d91785d4ce3ec4f000018/ "Codewars: Word values")
 - [x] [You're a square](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/You're%20a%20square.js "Github: You're a square"). Codewars: [link](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/ "Codewars: You're a square")
 
 >### 8 kyu ###
