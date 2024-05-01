@@ -10,6 +10,7 @@ Solutions for codewars
 >### 7 kyu ###
 
 - [x] [A Rule of Divisibility by 7](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/A%20Rule%20of%20Divisibility%20by%207.js "Github: A Rule of Divisibility by 7"). Codewars: [link](https://www.codewars.com/kata/55e6f5e58f7817808e00002e/ "Codewars: A Rule of Divisibility by 7")
+- [x] [Add property to every object in array](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Add%20property%20to%20every%20object%20in%20array.js "Github: Add property to every object in array"). Codewars: [link](https://www.codewars.com/kata/54e8c3e89e2ae6f4900005a1/ "Codewars: Add property to every object in array")
 - [x] [All Inclusive](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/All%20Inclusive.js "Github: All Inclusive"). Codewars: [link](https://www.codewars.com/kata/5700c9acc1555755be00027e/ "Codewars: All Inclusive")
 - [x] [All Star Code Challenge #3](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/All%20Star%20Code%20Challenge%203.js "Github: All Star Code Challenge #3"). Codewars: [link](https://www.codewars.com/kata/58640340b3a675d9a70000b9/ "Codewars: All Star Code Challenge #3")
 - [x] [All unique](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/All%20unique.js "Github: All unique"). Codewars: [link](https://www.codewars.com/kata/553e8b195b853c6db4000048/ "Codewars: All unique")
