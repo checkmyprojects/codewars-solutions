@@ -9,6 +9,7 @@ Solutions for codewars
 ## Javascript ##
 >### 7 kyu ###
 
+- [x] [16+18=214](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/16+18=214.js "Github: 16+18=214"). Codewars: [link](https://www.codewars.com/kata/5effa412233ac3002a9e471d/ "Codewars: 16+18=214")
 - [x] [A Rule of Divisibility by 7](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/A%20Rule%20of%20Divisibility%20by%207.js "Github: A Rule of Divisibility by 7"). Codewars: [link](https://www.codewars.com/kata/55e6f5e58f7817808e00002e/ "Codewars: A Rule of Divisibility by 7")
 - [x] [Add property to every object in array](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Add%20property%20to%20every%20object%20in%20array.js "Github: Add property to every object in array"). Codewars: [link](https://www.codewars.com/kata/54e8c3e89e2ae6f4900005a1/ "Codewars: Add property to every object in array")
 - [x] [All Inclusive](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/All%20Inclusive.js "Github: All Inclusive"). Codewars: [link](https://www.codewars.com/kata/5700c9acc1555755be00027e/ "Codewars: All Inclusive")
