@@ -1,9 +1,12 @@
-// https://www.codewars.com/kata/57ed30dde7728215300005fa
+// https://www.codewars.com/kata/59f7fc109f0e86d705000043
 
-// Your car is old, it breaks easily. The shock absorbers are gone and you think it can handle about 15 more bumps before it dies totally.
+// A trick I learned in elementary school to determine whether or not a number was divisible by three is to add all of the integers in the number together and to divide the resulting sum by three. If there is no remainder from dividing the sum by three, then the original number is divisible by three as well.
 
-// Unfortunately for you, your drive is very bumpy! Given a string showing either flat road (_) or bumps (n). If you are able to reach home safely by encountering 15 bumps or less, return Woohoo!, otherwise return Car Dead
+// Given a series of digits as a string, determine if the number represented by the string is divisible by three.
 
-function bump(x){
-    return (x.match(/n/g) || []).length > 15 ? "Car Dead" : "Woohoo!";
-  }
+function divisibleByThree(str) {
+    let s = 0;
+    for (const c of str)
+      s += parseInt(c);
+    return s % 3 == 0;
+}
