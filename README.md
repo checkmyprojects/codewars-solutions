@@ -290,6 +290,7 @@ Solutions for codewars
 - [x] [Valid Spacing](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Valid%20Spacing.js "Github: Valid Spacing"). Codewars: [link](https://www.codewars.com/kata/5f77d62851f6bc0033616bd8/ "Codewars: Valid Spacing")
 - [x] [Vowel Count](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Vowel%20Count.js "Github: Vowel Count"). Codewars: [link](https://www.codewars.com/kata/54ff3102c1bad923760001f3/ "Codewars: Vowel Count")
 - [x] [Vowel one](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Vowel%20one.js "Github: Vowel one"). Codewars: [link](https://www.codewars.com/kata/580751a40b5a777a200000a1/ "Codewars: Vowel one")
+- [x] [Who is the killer?](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Who%20is%20the%20killer.js "Github: Who is the killer?"). Codewars: [link](https://www.codewars.com/kata/5f709c8fb0d88300292a7a9d/ "Codewars: Who is the killer?")
 - [x] [Word values](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Word%20values.js "Github: Word values"). Codewars: [link](https://www.codewars.com/kata/598d91785d4ce3ec4f000018/ "Codewars: Word values")
 - [x] [You're a square](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/You're%20a%20square.js "Github: You're a square"). Codewars: [link](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/ "Codewars: You're a square")
 
