@@ -538,6 +538,7 @@ Solutions for codewars
 - [x] [Word to binary](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Word%20to%20binary.js "Github: Word to binary"). Codewars: [link](https://www.codewars.com/kata/59859f435f5d18ede7000050/ "Codewars: Word to binary")
 - [x] [Word values](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Word%20values.js "Github: Word values"). Codewars: [link](https://www.codewars.com/kata/598d91785d4ce3ec4f000018/ "Codewars: Word values")
 - [x] [Working with arrays I (and why your code fails in some katas)](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Working%20with%20arrays%20I%20(and%20why%20your%20code%20fails%20in%20some%20katas).js "Github: Working with arrays I (and why your code fails in some katas)"). Codewars: [link](https://www.codewars.com/kata/5a4ff3c5fd56cbaf9800003e/ "Codewars: Working with arrays I (and why your code fails in some katas)")
+- [x] [You Got Change](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/You%20Got%20Changejs "Github: You Got Change"). Codewars: [link](https://www.codewars.com/kata/5966f6343c0702d1dc00004c/ "Codewars: You Got Change")
 - [x] [You're a square](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/You're%20a%20square.js "Github: You're a square"). Codewars: [link](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/ "Codewars: You're a square")
 
 >### 8 kyu ###
