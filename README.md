@@ -1310,26 +1310,25 @@ Solutions for codewars
 - [x] [Sum of Triangular Numbers](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Sum%20of%20Triangular%20Numbers.java "Github: Sum of Triangular Numbers"). Codewars: [link](https://www.codewars.com/kata/580878d5d27b84b64c000b51/ "Codewars: Sum of Triangular Numbers")
 - [x] [Suzuki needs help lining up his students](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Suzuki%20needs%20help%20lining%20up%20his%20students.java "Github: Suzuki needs help lining up his students"). Codewars: [link](https://www.codewars.com/kata/5701800886306a876a001031/ "Codewars: Suzuki needs help lining up his students")
 - [x] [Switcheroo](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Switcheroo.java "Github: Switcheroo"). Codewars: [link](https://www.codewars.com/kata/57f759bb664021a30300007d/ "Codewars: Switcheroo")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [x] [Suzuki needs help lining up his students](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Suzuki%20needs%20help%20lining%20up%20his%20students.java "Github: Suzuki needs help lining up his students"). Codewars: [link](https://www.codewars.com/kata/5701800886306a876a001031/ "Codewars: Suzuki needs help lining up his students")
+- [x] [Switcheroo](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Switcheroo.java "Github: Switcheroo"). Codewars: [link](https://www.codewars.com/kata/57f759bb664021a30300007d/ "Codewars: Switcheroo")
+- [x] [Testing 1-2-3](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Testing%201-2-3.java "Github: Testing 1-2-3"). Codewars: [link](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/ "Codewars: Testing 1-2-3")
+- [x] [The First Non Repeated Character In A String](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/The%20First%20Non%20Repeated%20Character%20In%20A%20String.java "Github: The First Non Repeated Character In A String"). Codewars: [link](https://www.codewars.com/kata/570f6436b29c708a32000826/ "Codewars: The First Non Repeated Character In A String")
+- [x] [The fusc function -- Part 1](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/The%20fusc%20function%20--%20Part%201.java "Github: The fusc function -- Part 1"). Codewars: [link](https://www.codewars.com/kata/570409d3d80ec699af001bf9/ "Codewars: The fusc function -- Part 1")
+- [x] [The highest profit wins!](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/The%20highest%20profit%20wins.java "Github: The highest profit wins!"). Codewars: [link](https://www.codewars.com/kata/559590633066759614000063/ "Codewars: The highest profit wins!")
+- [x] [The Office II - Boredom Score](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/The%20Office%20II%20-%20Boredom%20Score.java "Github: The Office II - Boredom Score"). Codewars: [link](https://www.codewars.com/kata/57ed4cef7b45ef8774000014/ "Codewars: The Office II - Boredom Score")
+- [x] [The Office III - Broken Photocopier](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/The%20Office%20III%20-%20Broken%20Photocopier.java "Github: The Office III - Broken Photocopier"). Codewars: [link](https://www.codewars.com/kata/57ed56657b45ef922300002b/ "Codewars: The Office III - Broken Photocopier")
+- [x] [The Office IV - Find a Meeting Room](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/The%20Office%20IV%20-%20Find%20a%20Meeting%20Room.java "Github: The Office IV - Find a Meeting Room"). Codewars: [link](https://www.codewars.com/kata/57f604a21bd4fe771b00009c/ "Codewars: The Office IV - Find a Meeting Room")
+- [x] [The old switcheroo](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/The%20old%20switcheroo.java "Github: The old switcheroo"). Codewars: [link](https://www.codewars.com/kata/55d410c492e6ed767000004f/ "Codewars: The old switcheroo")
+- [x] [The Poet And The Pendulum](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/The%20Poet%20And%20The%20Pendulum.java "Github: The Poet And The Pendulum"). Codewars: [link](https://www.codewars.com/kata/5bd776533a7e2720c40000e5/ "Codewars: The Poet And The Pendulum")
+- [x] [The Pony Express](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/The%20Pony%20Express.java "Github: The Pony Express"). Codewars: [link](https://www.codewars.com/kata/5b18e9e06aefb52e1d0001e9/ "Codewars: The Pony Express")
+- [x] [Thinking & Testing Something capitalized](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Thinking%20&%20Testing%20Something%20capitalized.java "Github: Thinking & Testing Something capitalized"). Codewars: [link](https://www.codewars.com/kata/56d93f249c844788bc000002/ "Codewars: Thinking & Testing Something capitalized")
+- [x] [Thinking & Testing Uniq or not Uniq](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Thinking%20&%20Testing%20Uniq%20or%20not%20Uniq.java "Github: Thinking & Testing Uniq or not Uniq"). Codewars: [link](https://www.codewars.com/kata/56d949281b5fdc7666000004/ "Codewars: Thinking & Testing Uniq or not Uniq")
+- [x] [Tidy Number (Special Numbers Series #9)](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Tidy%20Number%20Special%20Numbers%20Series%209.java "Github: Tidy Number (Special Numbers Series #9)"). Codewars: [link](https://www.codewars.com/kata/5a87449ab1710171300000fd/ "Codewars: Tidy Number (Special Numbers Series #9)")
+- [x] [ToLeetSpeak](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/ToLeetSpeak.java "Github: ToLeetSpeak"). Codewars: [link](https://www.codewars.com/kata/57c1ab3949324c321600013f/ "Codewars: ToLeetSpeak")
+- [x] [Triangle area](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Triangle%20area.java "Github: Triangle area"). Codewars: [link](https://www.codewars.com/kata/59bd84b8a0640e7c49002398/ "Codewars: Triangle area")
+- [x] [Triangular Treasure](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Triangular%20Treasure.java "Github: Triangular Treasure"). Codewars: [link](https://www.codewars.com/kata/525e5a1cb735154b320002c8/ "Codewars: Triangular Treasure")
+- [x] [TV Remote](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/TV%20Remote.java "Github: TV Remote"). Codewars: [link](https://www.codewars.com/kata/5a5032f4fd56cb958e00007a/ "Codewars: TV Remote")
 
 
 >### 8 kyu ###
