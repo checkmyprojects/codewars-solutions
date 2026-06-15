@@ -1383,8 +1383,8 @@ Solutions for codewars
 - [x] [Vowel Count](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Vowel%20Count.java "Github: Vowel Count"). Codewars: [link](https://www.codewars.com/kata/54ff3102c1bad923760001f3/ "Codewars: Vowel Count")
 - [x] [What a Classy Song](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/What%20a%20Classy%20Song.java "Github: What a Classy Song"). Codewars: [link](https://www.codewars.com/kata/6089c7992df556001253ba7d/ "Codewars: What a Classy Song")
 - [x] [What's my golf score?](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Whats%20my%20golf%20score.java "Github: What's my golf score?"). Codewars: [link](https://www.codewars.com/kata/59f7a0a77eb74bf96b00006a/ "Codewars: What's my golf score?")
-- [x] [Who ate the cookie?](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Who%20ate%20the%20cookie.java "Github: Who ate the cookie?"). Codewars: [link](https://www.codewars.com/kata/55a996e0e8520afab9000055/ "Codewars: Who ate the cookie?")
-- [x] [Who likes it?](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/8kyu/Who%20likes%20it.java "Github: Who likes it?"). Codewars: [link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/ "Codewars: Who likes it?")
+- [x] [Who ate the cookie?](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Who%20ate%20the%20cookie.java "Github: Who ate the cookie?"). Codewars: [link](https://www.codewars.com/kata/55a996e0e8520afab9000055/ "Codewars: Who ate the cookie?")
+- [x] [Who likes it?](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Who%20likes%20it.java "Github: Who likes it?"). Codewars: [link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/ "Codewars: Who likes it?")
 - [x] [Word values](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Word%20values.java "Github: Word values"). Codewars: [link](https://www.codewars.com/kata/598d91785d4ce3ec4f000018/ "Codewars: Word values")
 
 
