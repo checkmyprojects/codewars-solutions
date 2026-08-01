@@ -8,8 +8,8 @@ Solutions for codewars
 
 ## Javascript ##
 >### 6 kyu ###
-- [x] [Create Phone Number](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Create%20Phone%20Number.js "Github: Create Phone Number"). Codewars: [link](https://www.codewars.com/kata/525f50e3b73515a6db000b83/ "Codewars: Create Phone Number")
-- [x] [Find the odd int](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/7kyu/Find%20the%20odd%20int.js "Github: Find the odd int"). Codewars: [link](https://www.codewars.com/kata/54da5a58ea159efa38000836/ "Codewars: Find the odd int")
+- [x] [Create Phone Number](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/6kyu/Create%20Phone%20Number.js "Github: Create Phone Number"). Codewars: [link](https://www.codewars.com/kata/525f50e3b73515a6db000b83/ "Codewars: Create Phone Number")
+- [x] [Find the odd int](https://github.com/checkmyprojects/codewars-solutions/blob/main/javascript/6kyu/Find%20the%20odd%20int.js "Github: Find the odd int"). Codewars: [link](https://www.codewars.com/kata/54da5a58ea159efa38000836/ "Codewars: Find the odd int")
 
 
 >### 7 kyu ###
@@ -1082,8 +1082,8 @@ Solutions for codewars
 
 ## Java ##
 >### 6 kyu ###
-- [x] [Create Phone Number](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Create%20Phone%20Number.java "Github: Create Phone Number"). Codewars: [link](https://www.codewars.com/kata/525f50e3b73515a6db000b83/ "Codewars: Create Phone Number")
-- [x] [Find the odd int](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/Find%20the%20odd%20int.java "Github: Find the odd int"). Codewars: [link](https://www.codewars.com/kata/54da5a58ea159efa38000836/ "Codewars: Find the odd int")
+- [x] [Create Phone Number](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/6kyu/Create%20Phone%20Number.java "Github: Create Phone Number"). Codewars: [link](https://www.codewars.com/kata/525f50e3b73515a6db000b83/ "Codewars: Create Phone Number")
+- [x] [Find the odd int](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/6kyu/Find%20the%20odd%20int.java "Github: Find the odd int"). Codewars: [link](https://www.codewars.com/kata/54da5a58ea159efa38000836/ "Codewars: Find the odd int")
 
 >### 7 kyu ###
 - [x] [2D Vector Mapping](https://github.com/checkmyprojects/codewars-solutions/blob/main/java/7kyu/2D%20Vector%20Mapping.java "Github: 2D Vector Mapping"). Codewars: [link](https://www.codewars.com/kata/5da995d583326300293ce4cb/ "Codewars: 2D Vector Mapping")
